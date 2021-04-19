@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+datasets/*.csv
+datasets/MGN2020_DPTO_POLITICO.rar
+charts/gifs/*
+charts/maps/*
